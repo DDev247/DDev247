@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on [**TSCpp**](https://github.com/DDev247/TSCpp)
+- 🔭 I’m currently working on [**Nothing**](https://github.com/DDev247)
 - 🌱 I’m currently learning [**C++**](http://www.cplusplus.org)
 - 📫 How to reach me: on [**Discord**](https://discord.com) @ddev and on [**Youtube**](https://www.youtube.com/channel/UCSNeokK94CzuqIIoRle_R1g)
 - ⚡ Fun fact: My code is so messy even I can't make sense of some of my projects
